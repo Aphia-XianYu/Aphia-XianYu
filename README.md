@@ -11,7 +11,7 @@
 👇 This is my simple self-introduction in Engilsh which is totally differenct in Chinese
 
 Hi！I'm XianYu or you can call me my English name Moni!<br>
-I'm learning Mechanics in ZheJiang Univesity.Now I'm  working on [Data-driven automated discovery of variational laws hidden in physical systems](https://www.sciencedirect.com/science/article/pii/S0022509619306246) <br>
+I'm learning Mechanics in ZheJiang Univesity.Now I'm  working on [Data-driven automated discovery of variational laws hidden in physical systems](https://www.sciencedirect.com/science/article/pii/S0022509619306246)  which explores the combination between Data Science and Physics<br>
 I' m intrested in Cypepunk (NOT THE GAME!I HAVEN'T TRIED IT!).So I like the two movies "THE GHOST IN THE SHELL" and " Ghost in the Shell 2: Innocence", both of them were directed by Mamoru Oshii.I also like the animated film "THE GHOST IN THE SHELL" directed by Kenji Kamiyama <br>
 Now I'm learing C++ and Python, and I prefer the Former<br>
 Anyway Welcome to my Garden of Eden!
